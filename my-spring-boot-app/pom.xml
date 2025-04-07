@@ -12,7 +12,7 @@
 	<artifactId>my-spring-boot-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>my-spring-boot-app</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot</description>  #a demo project
 	<url/>
 	<licenses>
 		<license/>
